@@ -37,4 +37,4 @@ Kasper is a modern, single-page website template built for showcasing creative w
 ## 🖥️ Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/kasper-template.git  
+   git clone https://github.com/Hazem7gg/Kasper---Creative-Agency-Portfolio-Template.git  
